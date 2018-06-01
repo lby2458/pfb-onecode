@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pfb-onecode-gateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: libingyang
+Implementation-Vendor-Id: pfb-onecode
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/pfb-onecode/
+ pfb-onecode-gateway/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
