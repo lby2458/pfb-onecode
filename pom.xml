@@ -11,6 +11,7 @@
 		<module>pfb-onecode-api</module>
 		<module>pfb-onecode-common</module>
 		<module>pfb-onecode-gateway</module>
+		<module>pfb-onecode-mq</module>
 	</modules>
 
 	<!-- 继承 -->

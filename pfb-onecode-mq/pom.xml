@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>pfb-onecode</groupId>
+		<artifactId>pfb-onecode</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>pfb.onecode.mq</groupId>
+	<artifactId>pfb-onecode-mq</artifactId>
+	<packaging>war</packaging>
+
+	<properties>
+		<rocketmq_ver>4.0.0-incubating</rocketmq_ver>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.rocketmq</groupId>
+			<artifactId>rocketmq-client</artifactId>
+			<version>${rocketmq_ver}</version>
+		</dependency>
+	</dependencies>
+</project>
